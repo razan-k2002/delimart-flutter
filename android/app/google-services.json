@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722990973080",
+    "project_id": "delimart-ra184",
+    "storage_bucket": "delimart-ra184.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722990973080:android:9636f565e2df6ed724d0ed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFmnXVlTS0T7bc4N0IippvuuoG3cj1tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
