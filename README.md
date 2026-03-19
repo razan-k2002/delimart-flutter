@@ -1,16 +1,73 @@
-# flutter_projects
+﻿
+# 🛒 DeliMart - Flutter Grocery App
 
-A new Flutter project.
+DeliMart is a mobile grocery shopping application built using Flutter.  
+It allows users to browse products, add items to a cart, and simulate the checkout process.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Home screen with product categories  
+- 🛍️ Browse products by category  
+- ➕ Add/remove items from cart dynamically  
+- 🧾 Checkout screen  
+- 👤 User authentication UI (Login & Signup)  
+- 📦 Orders screen  
+- 🎨 Clean and modular UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter (Dart)  
+- Provider (State Management)  
+- Firebase (configuration included)  
+- Material Design UI components
+
+---
+
+## 📁 Project Structure
+
+- `models/` → Data models  
+- `data/` → Static product & category data  
+- `screens/` → App screens  
+- `widgets/` → Reusable UI components  
+- `assets/` → Images & product photos  
+
+---
+
+## 🚀 Getting Started
+
+To run the app locally, open a terminal in the project folder and run:
+
+```bash
+flutter pub get
+flutter run
+```
+Make sure you have Flutter installed and configured on your system.
+
+## 📌 Future Improvements
+
+Integrate real backend and database for dynamic products
+
+Full Firebase user authentication (login/signup persistence)
+
+Payment gateway integration
+
+Push notifications for offers or new products
+
+Track order history for users
+
+## 👩‍💻 Author
+
+Razan Kawtharani
+Computer Science Student
+
+🔗 LinkedIn: https://www.linkedin.com/in/razan-kawtharani-a453562aa
+
+📧 Email: razankawtharani@outlook.com
+
+## 📂 GitHub Repository
+
+https://github.com/razan-k2002/delimart-flutter
